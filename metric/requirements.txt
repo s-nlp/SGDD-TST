@@ -1,0 +1,5 @@
+bert-score
+transformers
+gensim
+nltk
+datasets
