@@ -22,7 +22,7 @@ Fig.1 The example of crowdourcing task
 
 ### Statistics
 
-The dataset consists of 10,277 samples. Krippendorf's alpha agrrement score is 0.64
+The dataset consists of 10,287 samples. Krippendorf's alpha agrrement score is 0.64
 
 <p align="center">
   <img src="/dataset/img/hist_distrib.jpg" alt="drawing" width="500"/>
