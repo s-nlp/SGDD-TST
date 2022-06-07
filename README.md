@@ -19,6 +19,7 @@ Dialogue Dataset](https://arxiv.org/pdf/1909.05855.pdf) and were paraphrased by 
 <p align = "center">
 Fig.1 The example of crowdourcing task
 </p>
+
 ### Statistics
 
 The dataset consists of 10,277 samples. Krippendorf's alpha agrrement score is 0.64
@@ -30,6 +31,7 @@ The dataset consists of 10,277 samples. Krippendorf's alpha agrrement score is 0
 <p align = "center">
 Fig.2 The distribution of the similarity scores in the collected dataset
 </p>
+
 ## SGDD_self_annotated_subset 
 
 [SGDD_self_annotated_subset](/dataset/SGDD_self_annotated_subset.csv) is a subset of SGDD-TST manually annotated to perform an error analysis of the pre-trained formality transfer model. According to the error analysis we learned that loss or corruption of named entities and some essential parts of speech like verbs, prepositions, adjective, etc. play significant role in the problem of the content loss in formality transfer.
@@ -41,3 +43,13 @@ Fig.2 The distribution of the similarity scores in the collected dataset
 <p align = "center">
 Fig.3 Statistics of different reasons of content loss in TST
 </p>
+
+
+<p align="center">
+  <img src="/dataset/img/all_phenomena_page.jpg" alt="drawing" width="500"/>
+</p>
+<p align = "center">
+Fig.4 Frequency of the reasons for the change of content between original and generated sentences: named entities (NE), parts of speech (POS), named entities with parts of speech (NE+POS), and other reasons (Other).
+</p>
+
+
