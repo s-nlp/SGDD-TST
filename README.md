@@ -94,3 +94,7 @@ Fig.6 Spearman correlation of automatic content similarity metrics with human co
   
 Refer to [reproduce_experiments.ipynb](/metric/reproduce_experiments.ipynb) for the implementation of this approach. In this notebook, we show that it yields significant improvement in correlation with human judgments for most of the standardly used content similarity metrics. 
 
+# Contact and Citations
+
+If you have any questions feel free to frop a line to [Nikolay](mailto:bbkhse@gmail.com)
+
