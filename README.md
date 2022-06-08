@@ -7,7 +7,7 @@ This repository presents the results of the research descirbed in Studying the r
 ### Overview
 
 [SGDD-TST - Schema-Guided Dialogue Dataset for Text Style Transfer](/dataset/SGDD-TST.csv) is a dataset for evaluating the quality of content similarity measures for text style transfer in the domain of the personal plans. The original texts were obtained from [The Schema-Guided
-Dialogue Dataset](https://arxiv.org/pdf/1909.05855.pdf) and were paraphrased by the [T5-based mode](https://huggingface.co/ceshine/t5-paraphrase-paws-msrp-opinosis) trained on [GYAFC formality dataset](https://aclanthology.org/N18-1012/). The results were annotated by the crowdsource workers using [Yandex.Toloka](https://toloka.yandex.ru/).
+Dialogue Dataset](https://arxiv.org/pdf/1909.05855.pdf) and were paraphrased by the [T5-based model](https://huggingface.co/ceshine/t5-paraphrase-paws-msrp-opinosis) trained on [GYAFC formality dataset](https://aclanthology.org/N18-1012/). The results were annotated by the crowdsource workers using [Yandex.Toloka](https://toloka.yandex.ru/).
 
 
 <p align="center">
@@ -96,5 +96,5 @@ Refer to [reproduce_experiments.ipynb](/metric/reproduce_experiments.ipynb) for 
 
 # Contact and Citations
 
-If you have any questions feel free to frop a line to [Nikolay](mailto:bbkhse@gmail.com)
+If you have any questions feel free to drop a line to [Nikolay](mailto:bbkhse@gmail.com)
 
