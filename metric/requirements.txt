@@ -1,5 +1,6 @@
 bert-score
 transformers
 gensim
-nltk
-datasets
+nltk==3.7
+datasets==2.0.0
+rouge-score

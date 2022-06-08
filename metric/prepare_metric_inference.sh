@@ -5,5 +5,4 @@ gdown https://drive.google.com/u/0/uc?id=0B7XkCwpI5KDYNlNUTTlSS21pQmM&export=dow
 gzip -d GoogleNews-vectors-negative300.bin.gz
 
 python -m spacy download en_core_web_md
-pip install .
-
+pip install -r requirements.txt
