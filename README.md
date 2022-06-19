@@ -1,4 +1,4 @@
-This repository presents the results of the research descirbed in Studying the role of named entities for content preservation in text style transfer
+This repository presents the results of the research descirbed in [Studying the role of named entities for content preservation in text style transfer](https://link.springer.com/chapter/10.1007/978-3-031-08473-7_40)
 
 # Datasets
 
@@ -97,4 +97,30 @@ Refer to [reproduce_experiments.ipynb](/metric/reproduce_experiments.ipynb) for 
 # Contact and Citations
 
 If you have any questions feel free to drop a line to [Nikolay](mailto:bbkhse@gmail.com)
+
+If you find this repository helpful, feel free to cite our publication:
+
+```
+@InProceedings{10.1007/978-3-031-08473-7_40,
+author="Babakov, Nikolay
+and Dale, David
+and Logacheva, Varvara
+and Krotova, Irina
+and Panchenko, Alexander",
+editor="Rosso, Paolo
+and Basile, Valerio
+and Mart{\'i}nez, Raquel
+and M{\'e}tais, Elisabeth
+and Meziane, Farid",
+title="Studying the Role of Named Entities for Content Preservation in Text Style Transfer",
+booktitle="Natural Language Processing and Information Systems",
+year="2022",
+publisher="Springer International Publishing",
+address="Cham",
+pages="437--448",
+abstract="Text style transfer techniques are gaining popularity in Natural Language Processing, finding various applications such as text detoxification, sentiment, or formality transfer. However, the majority of the existing approaches were tested on such domains as online communications on public platforms, music, or entertainment yet none of them were applied to the domains which are typical for task-oriented production systems, such as personal plans arrangements (e.g. booking of flights or reserving a table in a restaurant). We fill this gap by studying formality transfer in this domain.",
+isbn="978-3-031-08473-7"
+}
+```
+
 
