@@ -1,4 +1,4 @@
-This repository presents the results of the research descirbed in [Studying the role of named entities for content preservation in text style transfer](https://link.springer.com/chapter/10.1007/978-3-031-08473-7_40)
+This repository presents the results of the research descirbed in [Studying the role of named entities for content preservation in text style transfer](https://arxiv.org/pdf/2206.09676.pdf)
 
 # Datasets
 
